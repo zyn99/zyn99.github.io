@@ -37,9 +37,8 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 # 计算机公共基础课
 ## 课件样卷
 
-#材料|链接
-
-#内容|download,
+# 材料|链接
+# 内容|download,
 
 ## 视频下载
 ### Header 3
