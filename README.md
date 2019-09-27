@@ -1,8 +1,11 @@
-    速览 A glimpse 
+    #速览 A glimpse 
+
+
 #更新时间 2019-09-27 
 #Updated by Sep. 27 2019
 
-    概览要点
+    #概览要点
+
 有的、必要的材料都在,未提及的也就没有。
 
 教学用：课件ppt及pdf、录像、软件、题库、习题答案、样卷
@@ -10,7 +13,7 @@
 选修课：Matlab技术与应用
 专业限选：多媒体技术与应用 
  
-    To foreigner students
+    #To foreigner students
 
 You can find all available useful text, vids and softwares with following instructions .
 Supplements include: 
@@ -26,6 +29,7 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 
 
     材料下载区|Downloadings
+
 # 计算机公共基础课
 ## 课件样卷
 ### Header 3
@@ -56,6 +60,7 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 下载链接
 [documentation](https://help.github.com/categories/github-pages-basics/)
 
-    期末答疑|Q&A for final test
+    #期末答疑|Q&A for final test
+
 #无计划|No schedule
  
