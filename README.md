@@ -1,11 +1,13 @@
 ### 更新时间 2019-09-27 
 ### Updated by Sep. 27 2019
+# _____________________________________________________________
+
 ### 下列内容 =  contents
 ### 1/3 速览 = A glimpse
 ### 2/3 期末答疑 = Q&A for final test
 ### 3/3 材料下载区 = Downloadings
 
-# _______________________________
+# _____________________________________________________________
 # 1/3 速览 = A glimpse
 已有的、必要的材料都在,未提及的也就没有。
 
@@ -28,44 +30,63 @@ Take care of the copyright laws if your leave China with your PC that may instal
 
 Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
 
-# _______________________________
+# _____________________________________________________________
 # 2/3 期末答疑 = Q&A for final test
 
 无计划 = No schedule
 
-# _______________________________
+# _____________________________________________________________
 # 3/3 材料下载区 = Downloadings
 
 ## 计算机公共基础课
 ## 课件样卷
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
 
 
+## 视频 = videos
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
 
-## 视频下载
-### Header 3
-### Header 3
-## 软件下载
-### Header 3
-### Header 3
-## 答案
-### Header 3
-### Header 3
+## 软件下载 = softwares
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+
+## 答案 = answers to book
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+
 
 ## C语言
 ## 课件样卷
-### Header 3
-### Header 3
-## 视频下载
-### Header 3
-### Header 3
-## 软件下载
-### Header 3
-### Header 3
-## 答案
-### Header 3
-### Header 3
 下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/)
+[documentation](https://help.github.com/categories/github-pages-basics/
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
 
 
- 
+## 视频 = videos
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+
+## 软件下载 = softwares
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+
+## 答案 = answers to book
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/
