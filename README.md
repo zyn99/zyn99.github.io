@@ -3,7 +3,7 @@
 # 速览|A glimpse 
 # 更新时间 2019-09-27 | Update by Sep. 27 2019
      
-    概览要点
+概览要点
     有的、必要的材料都在,未提及的也就没有。
 
     教学用：课件ppt及pdf、录像、软件、题库、习题答案、样卷
@@ -11,7 +11,7 @@
     选修课：Matlab技术与应用
     专业限选：多媒体技术与应用 
  
-    To foreigner students: 
+To foreigner students: 
 
     You can find all available useful text, vids and softwares with following instructions .
     Supplements include: 
