@@ -1,5 +1,7 @@
 
+
 # 速览|A glimpse 
+# 更新时间 2019-09-27 | Update by Sep. 27 2019
 
 概览要点
 有的、必要的材料都在,未提及的也就没有。
@@ -9,20 +11,19 @@
     选修课：Matlab技术与应用
     专业限选：多媒体技术与应用
 
-To foreigner students: You can find all available useful text, vids and softwares with following instructions .
-Supplements include: 
+To foreigner students: 
 
-1. power point files(PPT) / adobe PDF file, 
+    You can find all available useful text, vids and softwares with following instructions .
+    Supplements include: 
 
-2. videos of exercises on PC, 
+    1. power point files(PPT) / adobe PDF file 
+    2. videos of exercises on PC 
+    3. test papers for reference 
+    4. answers to questions of textbook’s chapters
 
-3. test papers for reference, 
+    Take care of the copyright laws if your leave China with your PC that may installed specific softwares with “only for China” software license.
 
-4. answers to questions of textbook’s chapters
-
-Take care of the copyright laws if your leave China with your PC that may installed specific softwares with “only for China” software license.
-
-Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
+    Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
 
 # 计算机公共基础课
 ## 课件样卷
