@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zyn99/zyn99/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 速览|A glimpse 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+概览要点
+有的、必要的材料都在,未提及的也就没有。
 
-### Markdown
+    教学用：课件ppt及pdf、录像、软件、题库、习题答案、样卷
+    公共课：计算机基础、c语言、新增改革课（信息技术等课程)
+    选修课：Matlab技术与应用
+    专业限选：多媒体技术与应用
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To foreigner students: You can find all available useful text, vids and softwares with following instructions .
+Supplements include: 
 
-```markdown
-Syntax highlighted code block
+1. power point files(PPT) / adobe PDF file, 
 
-# Header 1
-## Header 2
+2. videos of exercises on PC, 
+
+3. test papers for reference, 
+
+4. answers to questions of textbook’s chapters
+
+Take care of the copyright laws if your leave China with your PC that may installed specific softwares with “only for China” software license.
+
+Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
+
+# 计算机公共基础课
+## 课件样卷
+### Header 3
+### Header 3
+## 视频下载
+### Header 3
+### Header 3
+## 软件下载
+### Header 3
+### Header 3
+## 答案
+### Header 3
 ### Header 3
 
-- Bulleted
-- List
+# C语言
+## 课件样卷
+### Header 3
+### Header 3
+## 视频下载
+### Header 3
+### Header 3
+## 软件下载
+### Header 3
+### Header 3
+## 答案
+### Header 3
+### Header 3
+下载链接
+[documentation](https://help.github.com/categories/github-pages-basics/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyn99/zyn99/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
