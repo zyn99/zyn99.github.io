@@ -1,11 +1,8 @@
-    速览 A glimpse 
+    速览 / A glimpse 
 
 
-#更新时间 2019-09-27 
-
-#Updated by Sep. 27 2019
-
-    概览要点
+##更新时间 2019-09-27 
+##Updated by Sep. 27 2019
 
 有的、必要的材料都在,未提及的也就没有。
 
@@ -29,12 +26,21 @@ Take care of the copyright laws if your leave China with your PC that may instal
 Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
 
 
-    材料下载区|Downloadings
+
+    期末答疑 / Q&A for final test
+
+#无计划 / No schedule
+
+
+    材料下载区 / Downloadings
 
 # 计算机公共基础课
 ## 课件样卷
+
 #材料|链接
+
 #内容|download,
+
 ## 视频下载
 ### Header 3
 ### Header 3
@@ -61,7 +67,5 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 下载链接
 [documentation](https://help.github.com/categories/github-pages-basics/)
 
-    期末答疑|Q&A for final test
 
-#无计划|No schedule
  
