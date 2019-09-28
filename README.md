@@ -6,7 +6,7 @@
 ### 1/3 速览 = A glimpse
 ### 2/3 期末答疑 = Q&A for final test
 ### 3/3 材料下载区 = Downloadings
-### 适用于2019.09~2020.01 = contents are used for the semester of 2019.01~2020.01
+### 适用于2019.09~2020.01 = contents are applicable for the semester of 2019.01~2020.01
 # _____________________________________________________________
 # 1/3 速览 = A glimpse
 已有的、必要的材料都在,未提及的也就没有。
@@ -45,7 +45,7 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 
 ### 百度云-大学计算机基础   (1/4)
 ### 提取码: y96j
-### [大学计算机基础 课件及往年参考题目](https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw
+### [https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw](https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw)
 
     内容 
     PPT和参考试卷
@@ -56,7 +56,7 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
  
 ### 百度云-数据库技术与应用   (2/4)
 ### 提取码: htut
-### [数据库技术与应用 课件及往年参考题目](https://pan.baidu.com/s/1Uupb-kXFVmqVSHJ_-2wdzg
+### [https://pan.baidu.com/s/1Uupb-kXFVmqVSHJ_-2wdzg](https://pan.baidu.com/s/1Uupb-kXFVmqVSHJ_-2wdzg)
 
     内容 
     PPT
@@ -71,7 +71,7 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 
 ### 百度云-C语言程序设计   (3/4)
 ### 提取码: wqe5
-### [数据库技术与应用 课件及往年参考题目](https://pan.baidu.com/s/1LMbPoOBGiVi_YBPAjFnE4g
+### [https://pan.baidu.com/s/1LMbPoOBGiVi_YBPAjFnE4g](https://pan.baidu.com/s/1LMbPoOBGiVi_YBPAjFnE4g)
 
     内容 
     PPT
@@ -85,4 +85,20 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 
 
 
-Wx:tust_zyn
+
+### 百度云-信息与智能科学导论   (4/4)
+### 提取码: ----
+### [------](--------)
+
+    内容 
+    ----
+    ----
+    -----
+    
+    content
+    ---
+    ---
+    ---
+
+WX:tust_zyn
+
