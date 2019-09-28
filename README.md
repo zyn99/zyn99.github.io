@@ -21,16 +21,16 @@
  
 To foreigner students
 
-You can find all available old version content in following, include vids and softwares. 
-Latest materials should be deployed to you at PC Lab, thus, to make sure your USB thumb disk is along with you.
+You can find all available old version contents for learning at here. 
+Latest materials should be deployed to your PC at Lab, thus, to make sure your USB thumb disk is along with you.
 Supplements include: 
 
 1. power point files(PPT) / adobe PDF file 
 2. videos of exercises on PC 
 3. test papers for reference 
-4. answers to questions of textbook’s chapters
+4. answers to textbook’s questions  
 
-Take care of the copyright laws if your leave China with your PC that may installed specific softwares with “only for China” software license.
+Take care of the copyright laws if your leave China with your PC / USB disk that may installed specific softwares with “only for China” software license.
 
 Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
 
