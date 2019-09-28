@@ -6,7 +6,7 @@
 ### 1/3 速览 = A glimpse
 ### 2/3 期末答疑 = Q&A for final test
 ### 3/3 材料下载区 = Downloadings
-
+### 适用于2019.09~2020.01 = contents are used for the semester of 2019.01~2020.01
 # _____________________________________________________________
 # 1/3 速览 = A glimpse
 已有的、必要的材料都在,未提及的也就没有。
@@ -41,15 +41,7 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 
 # _____________________________________________________________
 # 3/3 材料下载区 = Downloadings
-说明
-资料发布结构为：
-### 链接、下载地址 (ith/totalNo)
-    链接内容
 
-instruction
-the following downloads are organized by follows:
-### download link
-    content
 
 ### 百度云-大学计算机基础   (1/4)
 ### 提取码: y96j
@@ -61,10 +53,35 @@ the following downloads are organized by follows:
     content
     PPT and previous test paper as reference
 
+ 
+### 百度云-数据库技术与应用   (2/4)
+### 提取码: htut
+### [数据库技术与应用 课件及往年参考题目](https://pan.baidu.com/s/1Uupb-kXFVmqVSHJ_-2wdzg
+
+    内容 
+    PPT
+    实验数据
+    参考试卷
+    
+    content
+    PPT 
+    previous test paper as reference
+    data files for exercises in PC Lab
 
 
+### 百度云-C语言程序设计   (3/4)
+### 提取码: wqe5
+### [数据库技术与应用 课件及往年参考题目](https://pan.baidu.com/s/1LMbPoOBGiVi_YBPAjFnE4g
 
-
+    内容 
+    PPT
+    习题答案
+    参考试卷
+    
+    content
+    PPT 
+    previous test paper as reference
+    answers to textbooks's questions
 
 
 
