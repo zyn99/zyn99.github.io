@@ -43,17 +43,17 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 # 3/3 材料下载区 = Downloadings
 说明
 资料发布结构为：
-## 链接、下载地址 (ith/totalNo)
+### 链接、下载地址 (ith/totalNo)
     链接内容
 
 instruction
 the following downloads are organized by follows:
-## download link
+### download link
     content
 
-## 百度云-大学计算机基础   (1/4)
-## 提取码: y96j
-## [大学计算机基础 课件及往年参考题目](https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw
+### 百度云-大学计算机基础   (1/4)
+### 提取码: y96j
+### [大学计算机基础 课件及往年参考题目](https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw
 
     内容 
     PPT和参考试卷
