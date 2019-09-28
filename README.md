@@ -10,6 +10,9 @@
 # _____________________________________________________________
 # 1/3 速览 = A glimpse
 已有的、必要的材料都在,未提及的也就没有。
+惯例：这里只提供往年题目给学生参考
+
+[当年题目，应由各自任课教师在机房统一发送。]
 
 教学用：课件ppt及pdf、录像、软件、题库、习题答案、样卷
 公共课：计算机基础、c语言、新增改革课（信息技术等课程)
@@ -18,7 +21,8 @@
  
 To foreigner students
 
-You can find all available useful text, vids and softwares with following instructions .
+You can find all available old version content in following, include vids and softwares. 
+Latest materials should be deployed to you at PC Lab, thus, to make sure your USB thumb disk is along with you.
 Supplements include: 
 
 1. power point files(PPT) / adobe PDF file 
@@ -37,100 +41,31 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 
 # _____________________________________________________________
 # 3/3 材料下载区 = Downloadings
+说明
+资料发布结构为：
+## 链接、下载地址 (ith/totalNo)
+    链接内容
 
-## 计算机公共基础课
-## 课件样卷
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
+instruction
+the following downloads are organized by follows:
+## download link
+    content
 
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
+## 百度云-大学计算机基础   (1/4)
+## 提取码: y96j
+## [大学计算机基础 课件及往年参考题目](https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw
 
-
-## 视频 = videos
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-## 软件下载 = softwares
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-## 答案 = answers to book
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
+    内容 
+    PPT和参考试卷
+    
+    content
+    PPT and previous test paper as reference
 
 
-## C语言
-
-## 课件样卷
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
 
 
-## 视频 = videos
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-## 软件下载 = softwares
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-## 答案 = answers to book
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
 
 
-## 数据库技术与应用
-
-## 课件样卷
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-
-## 视频 = videos
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-## 软件下载 = softwares
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-## 答案 = answers to book
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
-
-下载链接
-[documentation](https://help.github.com/categories/github-pages-basics/
 
 
 Wx:tust_zyn
