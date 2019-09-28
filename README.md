@@ -42,10 +42,10 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 # _____________________________________________________________
 # 3/3 材料下载区 = Downloadings
 
-
-### 百度云-大学计算机基础   (1/4)
-### 提取码: y96j
-### [https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw](https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw)
+### (1/4)
+    百度云-大学计算机基础
+    提取码: y96j
+    https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw
 
     内容 
     PPT和参考试卷
@@ -53,10 +53,10 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
     content
     PPT and previous test paper as reference
 
- 
-### 百度云-数据库技术与应用   (2/4)
-### 提取码: htut
-### [https://pan.baidu.com/s/1Uupb-kXFVmqVSHJ_-2wdzg](https://pan.baidu.com/s/1Uupb-kXFVmqVSHJ_-2wdzg)
+### (2/4)
+    百度云-数据库技术与应用
+    提取码: htut
+    https://pan.baidu.com/s/1Uupb-kXFVmqVSHJ_-2wdzg
 
     内容 
     PPT
@@ -68,10 +68,10 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
     previous test paper as reference
     data files for exercises in PC Lab
 
-
-### 百度云-C语言程序设计   (3/4)
-### 提取码: wqe5
-### [https://pan.baidu.com/s/1LMbPoOBGiVi_YBPAjFnE4g](https://pan.baidu.com/s/1LMbPoOBGiVi_YBPAjFnE4g)
+### (3/4)
+    百度云-C语言程序设计
+    提取码: wqe5
+    https://pan.baidu.com/s/1LMbPoOBGiVi_YBPAjFnE4g
 
     内容 
     PPT
@@ -86,9 +86,10 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 
 
 
-### 百度云-信息与智能科学导论   (4/4)
-### 提取码: ----
-### [------](--------)
+### (4/4)
+    百度云-信息与智能科学导论
+    提取码: ----
+    --------
 
     内容 
     ----
