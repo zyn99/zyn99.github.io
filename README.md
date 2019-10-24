@@ -1,11 +1,12 @@
-### 1/3 速览 = A glimpse
-### 2/3 期末答疑 = Q&A for final test
-### 3/3 材料下载区 = Downloadings
+### 1/4 速览 = A glimpse
+### 2/4 学习作业实验安排 = handing in tasks
+### 3/4 期末答疑 = Q&A for final test
+### 4/4 材料下载区 = Downloadings
 ### 适用于2019.09~2020.01 = contents are applicable for the semester of 2019.01~2020.01
 
 # _____________________________________________________________
-### 更新时间 2019-09-27 
-### Updated by Sep. 27 2019
+### 更新时间 2019-10-25 
+### Updated by Oct. 25 2019
 # _____________________________________________________________
 # 1/3 速览 = A glimpse
 已有的、必要的材料都在,未提及的也就没有。
@@ -20,7 +21,7 @@
  
 To foreigner students
 
-You can find all available old version contents for learning at here. 
+You can find all available old version contents at here. 
 Latest materials should be deployed to your PC at Lab, thus, to make sure your USB thumb disk is along with you.
 Supplements include: 
 
@@ -32,27 +33,34 @@ Supplements include:
 Take care of the copyright laws if your leave China with your PC / USB disk that may installed specific softwares with “only for China” software license.
 
 Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
-
 # _____________________________________________________________
-# 2/3 期末答疑 = Q&A for final test
+# 2/4 学习作业实验安排 = handing in tasks
 
 无计划 = No schedule
 
 # _____________________________________________________________
-# 3/3 材料下载区 = Downloadings
+# 3/4 期末答疑 = Q&A for final test
 
-### (1/4)
-    百度云-大学计算机基础
+无计划 = No schedule
+
+# _____________________________________________________________
+# 4/4 材料下载区 = Downloadings
+
+### (1/3)
+    百度云-2019信息与智能科学导论
     提取码: y96j
     https://pan.baidu.com/s/1cVhMNsuyo6F7mU4QErY7cw
-
+    链接：https://pan.baidu.com/s/1kduhl3Zd6ss5nGJnHk4Opg 
+    提取码：dwpx 
+    复制这段内容后打开百度网盘手机App，操作更方便哦
     内容 
+    
     PPT和参考试卷
     
     content
     PPT and previous test paper as reference
 
-### (2/4)
+### (2/3)
     百度云-数据库技术与应用
     提取码: htut
     https://pan.baidu.com/s/1Uupb-kXFVmqVSHJ_-2wdzg
@@ -67,7 +75,7 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
     previous test paper as reference
     data files for exercises in PC Lab
 
-### (3/4)
+### (3/3)
     百度云-C语言程序设计
     提取码: wqe5
     https://pan.baidu.com/s/1LMbPoOBGiVi_YBPAjFnE4g
@@ -85,20 +93,6 @@ Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified
 
 
 
-### (4/4)
-    百度云-信息与智能科学导论
-    提取码: ----
-    --------
-
-    内容 
-    ----
-    ----
-    -----
-    
-    content
-    ---
-    ---
-    ---
 
 WX:tust_zyn
 
