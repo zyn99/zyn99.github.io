@@ -1,5 +1,5 @@
 ### 1/4 速览 = A glimpse
-### 2/4 学习作业实验安排 = handing in tasks
+### 2/4 学习作业实验安排 = handing in homework
 ### 3/4 期末答疑 = Q&A for final test
 ### 4/4 材料下载区 = Downloadings
 ### 适用于2019.09~2020.01 = contents are applicable for the semester of 2019.01~2020.01
