@@ -1,7 +1,6 @@
-### 1/4 速览 = A glimpse
-### 2/4 学习作业实验安排 = handing in homework
-### 3/4 期末答疑 = Q&A for final test
-### 4/4 材料下载区 = Downloadings
+### 1/3 速览 = A glimpse
+### 2/3 学习作业实验安排 = handing in homework
+### 3/3 材料下载区 = Downloadings
 ### 适用于2019.09~2020.01 = contents are applicable for the semester of 2019.01~2020.01
 
 # _____________________________________________________________
@@ -128,13 +127,10 @@ Page.218 简答题1,2,6,9
 
 ### 实验作业以机房上课时教师安排为准，随堂提交
 
-# _____________________________________________________________
-# 3/4 期末答疑 = Q&A for final test
-
-无计划 = No schedule
+ 
 
 # _____________________________________________________________
-# 4/4 材料下载区 = Downloadings
+# 3/3 材料下载区 = Downloadings
 暂无在线下载 -- online accessing contents: N/A
 【上机课】时，与老师询问，机房下发。
 
