@@ -15,6 +15,7 @@
 *** 
 ### 更新时间 2019-10-25 
 ### Updated by Oct. 25 2019
+
 ***
 ***
 # 1/3 速览 = ...
@@ -44,6 +45,7 @@ Supplements include:
 Take care of the copyright laws if your leave China with your PC / USB disk that may installed specific softwares with “only for China” software license.
 
 Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
+
 ***
 ***
 # 2/3 书面作业、实验作业 = ...
@@ -140,8 +142,6 @@ Page.218 简答题1,2,6,9
 # 信息与智能科学导论 实验作业 2019年秋季（2019.09.01-2020.01.01）
 
 ### 实验作业以机房上课时教师安排为准，随堂提交
-
- 
 
 ***
 ***
