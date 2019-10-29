@@ -1,3 +1,9 @@
+***
+***
+# 0/3 内容 = ...
+# Content
+***
+***
 ### 1/3 速览 = ...
 ### A glimpse
 ### 2/3 学习作业实验安排 = ...
@@ -11,9 +17,10 @@
 ### Updated by Oct. 25 2019
 ***
 ***
-***
 # 1/3 速览 = ...
 # A glimpse
+***
+***
 已有的、必要的材料都在,未提及的也就没有。
 惯例：这里只提供往年题目给学生参考
  
@@ -39,9 +46,9 @@ Take care of the copyright laws if your leave China with your PC / USB disk that
 Finally，I am 99% sure that you will encounter a Chinese test paper. （Unified requirements）
 ***
 ***
-***
 # 2/3 书面作业、实验作业 = ...
-# works for you 
+# works for you & arrangement
+***
 ***
 信息与智能科学导论A-149人（本科生理工类各专业）
 
@@ -138,9 +145,10 @@ Page.218 简答题1,2,6,9
 
 ***
 ***
-***
 # 3/3 材料下载区 = ...
 # Downloadings
+***
+***
 暂无在线下载 -- online accessing contents: N/A
 【上机课】时，与老师询问，机房下发。
 
