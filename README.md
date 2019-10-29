@@ -5,7 +5,7 @@
 ### 3/3 材料下载区 = ...
 ### Downloadings
 ### 适用于2019.09~2020.01 = ...
-### contents are applicable for the semester of 2019.01~2020.01
+### contents are applicable for the semester of 2019.09~2020.01
 
 # _____________________________________________________________
 ### 更新时间 2019-10-25 
