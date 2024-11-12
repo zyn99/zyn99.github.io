@@ -1,4 +1,6 @@
- 
+layout: page
+title: "PAGE-TITLE"
+permalink: /about/
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
