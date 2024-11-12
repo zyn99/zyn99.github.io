@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
  
-[Link to another page](readme.md).
+[Link to another page](./_posts/2024-11-13-note1.md).
 
 There should be whitespace between paragraphs.
 
